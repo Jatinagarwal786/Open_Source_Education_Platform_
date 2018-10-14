@@ -8,7 +8,7 @@ include './post.php';
 ?>
 
 <!doctype html>
-<html lang="eng">
+<html lang="Eng">
 <head>
 <meta charset="utf-8">
 <title> profile</title>
